@@ -1,0 +1,1 @@
+AWS_PROFILE=myprofile AWS_REGION=us-east-1 go run ./main.go
